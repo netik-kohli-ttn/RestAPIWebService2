@@ -3,7 +3,6 @@ package com.kohli.restfulwebservice2;
 import com.kohli.restfulwebservice2.answer5.UserDetail;
 import com.kohli.restfulwebservice2.answer5.UserDetailService;
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
-import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.info.Info;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.beans.factory.annotation.Autowired;
